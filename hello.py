@@ -1,5 +1,5 @@
 
-print("helluo")
+prinst("helluo")
 a = 5
 z = "hello"
 b = 3
